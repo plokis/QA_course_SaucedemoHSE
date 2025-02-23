@@ -10,7 +10,7 @@ public class LoginTest {
     /*
     1. Открыть страницу https://www.saucedemo.com/
     2. Ввести в поле username значение dqdq
-    3. Оставить поле password пустым dqdq
+    3. Ввести в поле password значение dqdq
     4. Нажать кнопку Login
     5. Проверить, что мы видим сообщение об ошибке с текстом
        Epic sadface: Username and password do not match any user in this service
@@ -39,7 +39,7 @@ public class LoginTest {
     /*
     1. Открыть страницу https://www.saucedemo.com/
     2. Ввести в поле username значение dqdq
-    3. Оставить поле password пустым dqdq
+    3. Ввести в поле password значение dqdq
     4. Нажать кнопку Login
     5. Проверить, что мы видим круглую красную иконку с белым крестиком
     */
